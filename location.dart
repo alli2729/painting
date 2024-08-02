@@ -1,3 +1,7 @@
+/*
+  Ali Karimi
+*/
+
 class Location {
   // Variable
   int factor;

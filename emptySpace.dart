@@ -1,3 +1,7 @@
+/*
+  Ali Karimi
+*/
+
 class Emptyspace {
   // Variables
   int width;

@@ -1,3 +1,7 @@
+/*
+  Ali Karimi
+*/
+
 class Paint {
   // Variables
   String name;

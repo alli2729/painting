@@ -1,3 +1,7 @@
+/*
+  Ali Karimi
+*/
+
 import 'areaCalculator.dart';
 import 'location.dart';
 import 'paint.dart';
