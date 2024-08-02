@@ -16,4 +16,9 @@ class Areacalculator {
     }
     return totalArea - sum;
   }
+
+  @override
+  String toString() {
+    return totalArea.toString();
+  }
 }

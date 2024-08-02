@@ -12,4 +12,12 @@ class Paintjobcalculator {
   Paintjobcalculator(this.paint, this.area, this.location);
 
   //Methods
+  int calculate() {
+    return paint.cost * area.calculate() * location.factor;
+  }
+
+  @override
+  String toString() {
+    return 'paint: ${paint.name}, location factor: ${location.factor}, area: ${area.calculate()}';
+  }
 }

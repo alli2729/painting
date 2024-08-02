@@ -1,11 +1,10 @@
 class Paint {
   // Variables
   String name;
-  double cost;
+  int cost;
 
   // Constractor
   Paint(this.name, this.cost);
-  
-  // Methods
 
+  // Methods
 }
